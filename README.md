@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm [ZixeSea](https://zixesea.com)
+##### Founder and head developer of ServerStats
+
+---
+
+### Information:
+
+- 🔭 I’m currently working on [ServerStats](https://serverstatsbot.com).
+- 🌱 I’m currently learning web develepment.
+- 📫 How to reach me: ZixeSea#1234, support@serverstatsbot.com
+- ⚡ Fun fact: I use VScode for almost anything <3.
+
+---
 
 <!--
 **ZixeSea/ZixeSea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
