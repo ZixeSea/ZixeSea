@@ -1,14 +1,43 @@
-### Hi there 👋, I'm [ZixeSea](https://zixesea.com)
-##### Founder and head developer of ServerStats
+### Hey there👋, I'm [ZixeSea](https://zixesea.dev/)
+#### Founder and lead developer of [ServerStats bot](https://serverstats.gg/)
 
 ---
 
 ### Information:
 
-- 🔭 I’m currently working on [ServerStats](https://serverstatsbot.com).
+- 🔭 I’m currently working on [ServerStats](https://serverstats.gg/)
 - 🌱 I’m currently learning web develepment.
-- 📫 How to reach me: ZixeSea#1234, support@serverstatsbot.com
-- ⚡ Fun fact: I use VScode for almost anything <3.
+- 📫 Discord account name: ZixeSea
+
+---
+
+### Worked with / using:
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,java,mongodb,ubuntu,github,nginx,cloudflare&perline=5)](https://skillicons.dev)
+
+### Learning / trying out:
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs)](https://skillicons.dev)
+
+---
+
+### My essential programs:
+
+#### [Discord](https://discord.com/)
+##### Discord is great for playing games and chilling with friends, or even building a worldwide community.
+
+#### [VSCode](https://code.visualstudio.com/)
+##### Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+#### [Brave](https://brave.com/)
+##### The Brave browser is a fast, private and secure web browser for PC, Mac and mobile.
+
+#### [Tabby](https://tabby.sh/)
+##### Tabby is an infinitely customizable cross-platform terminal app for local shells, serial, SSH and Telnet connections.
+
+---
+
+[![discord-profile](https://lanyard.kyrie25.me/api/98822055402688512?useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
 
 ---
 
