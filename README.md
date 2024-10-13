@@ -39,8 +39,6 @@
 
 [![discord-profile](https://lanyard.kyrie25.me/api/98822055402688512?useDisplayName=true)](https://github.com/kyrie25/lanyard-profile-readme)
 
----
-
 <!--
 **ZixeSea/ZixeSea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
