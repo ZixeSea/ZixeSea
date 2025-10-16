@@ -1,11 +1,11 @@
 ### Hey there👋, I'm [ZixeSea](https://zixesea.dev/)
-#### Founder and lead developer of [ServerStats bot](https://serverstats.gg/)
+#### Founder and lead developer of [ServerStats bot](https://serverstats.bot/)
 
 ---
 
 ### Information:
 
-- 🔭 I’m currently working on [ServerStats](https://serverstats.gg/)
+- 🔭 I’m currently working on [ServerStats](https://serverstats.bot/)
 - 🌱 I’m currently learning web develepment.
 - 📫 Discord account name: ZixeSea
 
